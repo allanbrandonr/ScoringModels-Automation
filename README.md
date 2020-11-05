@@ -1,5 +1,5 @@
 # ScoringModels-Automation
-Providing functions for automate selection and fitting of scoring a& weighted regression based models
+Providing functions for automate selection and fitting of scoring & weighted regression based models
 
 # Summary
 The objective of the codes is to automate scoring model selection and fitting. The codes optimize fitting of a weighted regresion model 
